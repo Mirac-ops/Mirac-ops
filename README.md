@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hueseyin Yetkin / Mirac-ops</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 📫 How to reach me **myetkin@web.de**  |  github.com/Mirac-ops  |  https://www.linkedin.com/in/h%C3%BCseyin-yetkin-920020215/
+- 📫 How to reach me **myetkin@web.de**
+- |  github.com/Mirac-ops  |
+- https://www.linkedin.com/in/h%C3%BCseyin-yetkin-920020215/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
